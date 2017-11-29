@@ -18,6 +18,8 @@
    
      alias eos2="source /home/gwu/eos/python2.7/bin/activate; cd /home/gwu/eos_2.7; export PYTHONPATH=/home/gwu/eos_2.7"
      
+   
+   install virtualenv and create new environment
      
      ### create python 3.5 env
      $cd /home/gwu/virtualenv

@@ -32,8 +32,10 @@
    add alias to your shell
    
      alias eos3="source /home/gwu/eos/python3.5/bin/activate; cd /home/gwu/eos_3.5; export PYTHONPATH=/home/gwu/eos_3.5"
+   
      
-     ### exit current env
+   exit current env
+   
      $deactivate 
      
 
